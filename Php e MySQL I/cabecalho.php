@@ -8,7 +8,7 @@
 
 <body>
 
-    <div class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
             <div class="navbar-header">
                 <a href="index.php" class="navbar-brand">Minha Loja</a>
@@ -21,7 +21,7 @@
                 </ul>
             </div>
         </div> 
-    </div>
+    </nav>
 
     <div class="container">
 

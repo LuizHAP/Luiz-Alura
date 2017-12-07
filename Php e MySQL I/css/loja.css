@@ -1,8 +1,12 @@
 body {
-	padding-top: 50px;
+	padding-top: 80px;
 }
 
 .principal{
-	paddin: 40px 15px;
+	paddin: 40px 30px;
 	text-align: center;
+}
+
+.table {
+	margin-top: 20px; 
 }
